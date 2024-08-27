@@ -1,0 +1,10 @@
+h1, .list-group, footer, .card, .carousel-inner{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 720px) {
+    p, .list-group, h5{
+        text-align: center;
+    }
+  }
